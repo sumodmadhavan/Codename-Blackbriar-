@@ -1,0 +1,25 @@
+
+# Please enter the commit message for your changes. Lines startWorking
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   RESTwithNATIVECLIENT.ps1
+#
+# Changes not staged for commit:
+#	deleted:    ../Error.txt
+#	modified:   ADAL/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+#	deleted:    ADAL/Read Me.txt
+#	modified:   RESTwithAUTHCODE.ps1
+#
+# Untracked files:
+#	../Code.txt
+#	ADAL/Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+#	ADAL/Microsoft.IdentityModel.Clients.ActiveDirectory.XML
+#	ADAL/Output.json
+#	ADAL/Token.txt
+#	AccessToken.XML
+#	Token.txt
+#
